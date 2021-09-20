@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CoffeeNet Version 1.0.0</string>
+    <string name="button_classify">Scan</string>
+    <string name="rust_label">RUST</string>
+    <string name="miner_label">MINER</string>
+    <string name="phoma_label">PHOMA</string>
+    <string name="cercospora_label">CERCOSPORA</string>
+</resources>
